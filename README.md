@@ -4,6 +4,8 @@ A small desktop app for Ubuntu that switches a laptop's NVIDIA GPU on or off. Tu
 saves battery when you don't need it. The app uses [envycontrol](https://github.com/bayasdev/envycontrol)
 behind the scenes, so you don't need to type terminal commands.
 
+![NVIDIA GPU Toggle window with the GPU switched off](ubuntu-gpu-toggle.png)
+
 ## Will it work on my computer?
 
 It works when:
